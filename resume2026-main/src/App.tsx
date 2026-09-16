@@ -21,11 +21,11 @@ export default function App() {
             GitHub: https://github.com/IgorBern02
           </a>
           <a
-            href="https://igorbernardesportfolio.vercel.app/"
+            href="https://portfolio-igor-bernardes.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Portfolio: https://igorbernardesportfolio.vercel.app/
+            Portfolio: https://portfolio-igor-bernardes.vercel.app/
           </a>
         </div>
       </header>
@@ -99,13 +99,13 @@ export default function App() {
           demoLink="https://taskflowpro-nine.vercel.app/"
           projectLink="https://github.com/IgorBern02/taskflowpro"
         />
-        <Project 
-        title="DevEvents – React + Node"
-        description="Um site para consultar eventos de tecnologia, com backend em Node.js e frontend em React, consumindo uma API REST para exibir os eventos mais recentes."
-        demoLink="https://dev-events-eta.vercel.app/"
-        projectLink="https://github.com/IgorBern02/dev-events"
+        <Project
+          title="DevEvents – React + Node"
+          description="Um site para consultar eventos de tecnologia, com backend em Node.js e frontend em React, consumindo uma API REST para exibir os eventos mais recentes."
+          demoLink="https://dev-events-eta.vercel.app/"
+          projectLink="https://github.com/IgorBern02/dev-events"
         />
-      </Section> 
+      </Section>
 
       {/* Formação */}
       <Section title="Formação">
