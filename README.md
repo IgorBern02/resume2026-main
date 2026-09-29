@@ -9,7 +9,7 @@ Construindo interfaces modernas, responsivas e intuitivas, transformando ideias 
 
 <br/>
 
-<a href="[https://igorbernardessportfolio.vercel.app](https://portfolio-igor-bernardes.vercel.app/)">
+<a href="https://portfolio-igor-bernardes.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfólio-925CF0?style=for-the-badge" alt="Portfólio" />
 </a>
 <a href="https://www.linkedin.com/in/igor-bernardess/">
@@ -107,7 +107,7 @@ Portfólio pessoal desenvolvido para reunir meus trabalhos, apresentar minha tra
 - ✨ Animações e interface responsiva
 - 🌓 Tema claro e escuro
 
-🔗 [Acessar portfólio]([https://portfolio-igor-bernardes.vercel.app/](https://portfolio-igor-bernardes.vercel.app/))  
+🔗 [Acessar portfólio](https://portfolio-igor-bernardes.vercel.app/)  
 📂 [Ver código-fonte](https://github.com/IgorBern02/portfolio-igor)
 
 ---
@@ -149,7 +149,7 @@ Estou aberto a oportunidades como **Desenvolvedor Front-end Júnior**, projetos 
 <a href="https://www.linkedin.com/in/igor-bernardess/">
   <img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="[https://igorbernardessportfolio.vercel.app](https://portfolio-igor-bernardes.vercel.app/)">
+<a href="https://portfolio-igor-bernardes.vercel.app/">
   <img src="https://img.shields.io/badge/Conheça_meu_portfólio-925CF0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
 
